@@ -117,7 +117,7 @@ button {
 
 button:hover {
   border: #43007634 2px solid;
-  background-color: hotpink;
+  background-color: rgb(213, 255, 105);
   color: azure;
 }
 
